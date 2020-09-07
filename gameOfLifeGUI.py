@@ -93,7 +93,6 @@ class Window(Frame):
 
 
 root = Tk()
-black = PhotoImage("black.jpg")
 white = PhotoImage("white.jpg")
 app = Window(root)
 root.wm_title("Tkinter button")
